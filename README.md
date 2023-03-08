@@ -5,7 +5,7 @@
 
 
 
-# **I learnt** 
+# **I learn** 
 
 ## - ***python*** 
 ------
